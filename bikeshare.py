@@ -169,6 +169,7 @@ def user_stats(df):
     print('-'*40)
    
 def display_data(df):
+    # show data
     start_index = 0
     end_index = 5
     total_rows = len(df.index)
