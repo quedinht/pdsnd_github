@@ -7,7 +7,7 @@ April 19, 2024
 Post Your Work on GitHub
 
 ### Description
-For this project, you'll engage in a practical exercise of utilizing Git to refactor your Project 2 in a manner that mirrors real-world workflows.
+For this project, you'll mimic a genuine workflow to enhance your prior Project 2 through Git utilization
 
 ### Files used
 The following file contains necessary commands used to do tasks:
